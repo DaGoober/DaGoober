@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaGoober
 - 👀 I’m interested in ... growing in diverse skills to help communities far and wide
-- 🌱 I’m currently learning ... how to build an DaPP  
+- 🌱 I’m currently learning ... programming skills to become developer  
 - 💞️ I’m looking to collaborate on ... beginner/ intermediate projects
 - 📫 How to reach me ...
 Im new to the dev. world but will up-to-date through progress aswell
